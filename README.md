@@ -1,5 +1,5 @@
 ### Hi 👋, It's Saeed Esmaeelinejad here.
-I am full stack software developer with 6+ Years of experience in Software Development Life Cycle SDLC involving Requirement Gathering, Analysis, Logical Physical Architectural Modeling, Design, Development, Testing, Implementation and Production Support.
+I am a full stack software developer with 6+ Years of experience in Software Development Life Cycle SDLC involving Requirement Gathering, Analysis, Logical Physical Architectural Modeling, Design, Development, Testing, Implementation and Production Support.
 
 - 🔭 I’m currently working at [Hahn](https://www.hahn-softwareentwicklung.de) as a Software Engineer.
 - 🌱  I’m interested in the area of self-supervised representation learning.
