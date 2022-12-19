@@ -2,7 +2,7 @@
 
 - 🔭  I’m currently working at [Seven Peaks](https://sevenpeakssoftware.com/) as a Senior Software Engineer.
 - 🌱  I’m interested in the area of self-supervised representation learning.
-- 👯  I’m always open to meaningful collaborations and like to contribute.
+- 👯  I’m always open to meaningful collaborations.
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I love watching crime and mystery movies (Breaking bad lover).
 
