@@ -4,7 +4,7 @@
 - 🌱  I’m interested in the area of self-supervised representation learning.
 - 👯  I’m always open to meaningful collaborations and contributing.
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I love watching crime and mystery movies (Breaking bad lover and of course Better Call Saul).
+- ⚡ Fun fact: ... I love watching crime and mystery movies (Breaking bad lover and of course Better Call Saul (Jimmy!)).
 
 ### Find me at:
 <a href="https://www.linkedin.com/in/sa-es-ir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saeed Esmaeelinejad" height="30" width="40" /></a>
